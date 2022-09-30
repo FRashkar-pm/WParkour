@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace mcsim415\Parkour;
+namespace deveworld\Parkour;
 
 use JsonException;
 use mcsim415\Parkour\Command\ParkourCommand;
